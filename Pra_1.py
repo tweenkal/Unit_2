@@ -10,7 +10,6 @@ print("New array")
 print(y)
 
 
-
 #output:-
 # Orignal array
 # [24, 27, 30, 29, 18, 14]
